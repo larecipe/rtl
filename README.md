@@ -6,11 +6,6 @@
   LaRecipe RTL Support
 </h2>
 
-
-<h6 align="center">a
-    Write gorgeous documentations for your products using Markdown inside your Laravel app.
-</h6>
-
 # LaRecipe 🍪
 
 **LaRecipe** is simply a code-driven package provides an easy way to create beautiful documentation for your product or application inside your Laravel app.
