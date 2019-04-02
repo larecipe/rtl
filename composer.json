@@ -1,6 +1,6 @@
 {
     "name": "binarytorch/larecipe-rtl",
-    "description": "A LaRecipe asset.",
+    "description": "Official LaRecipe RTL Support.",
     "keywords": [
         "laravel",
         "larecipe"
